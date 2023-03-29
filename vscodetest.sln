@@ -13,13 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Razorindauth", "..\Razorind
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorNoauth", "..\RazorNoauth\RazorNoauth\RazorNoauth.csproj", "{B0768BE4-470A-402C-822D-ED5CA7117AED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWasmWithhost.Server", "BlazorWasmWithhost\Server\BlazorWasmWithhost.Server.csproj", "{D2FF6D94-2543-4E93-BAF5-AD13CCE0D664}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWasmWithhost.Server", "BlazorWasmWithhost\Server\BlazorWasmWithhost.Server.csproj", "{D2FF6D94-2543-4E93-BAF5-AD13CCE0D664}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWasmWithhost.Client", "BlazorWasmWithhost\Client\BlazorWasmWithhost.Client.csproj", "{CCF9460E-0384-4B0D-9263-DE2F7A9AFC70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWasmWithhost.Client", "BlazorWasmWithhost\Client\BlazorWasmWithhost.Client.csproj", "{CCF9460E-0384-4B0D-9263-DE2F7A9AFC70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWasmWithhost.Shared", "BlazorWasmWithhost\Shared\BlazorWasmWithhost.Shared.csproj", "{85A45A0A-567A-4AC2-B889-00C1C8B66634}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWasmWithHost.Shared", "BlazorWasmWithhost\Shared\BlazorWasmWithHost.Shared.csproj", "{85A45A0A-567A-4AC2-B889-00C1C8B66634}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWasmWithouthost", "BlazorWasmWithouthost\BlazorWasmWithouthost.csproj", "{DB21D801-4204-4358-BAA4-62F4C008D1CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWasmWithoutHost", "BlazorWasmWithouthost\BlazorWasmWithoutHost.csproj", "{DB21D801-4204-4358-BAA4-62F4C008D1CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
