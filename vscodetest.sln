@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33513.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppServer", "..\BlazorAppServer\BlazorAppServer\BlazorAppServer.csproj", "{AA11E0CB-5F14-4487-8585-F97DD3E17EB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppServer1", "..\BlazorAppServer\BlazorAppServer\BlazorAppServer1.csproj", "{AA11E0CB-5F14-4487-8585-F97DD3E17EB2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCIndividual", "..\MVCIndividual\MVCIndividual\MVCIndividual.csproj", "{D9170464-6340-4A4F-8454-FB65CCBA481F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCIndau", "..\MVCIndividual\MVCIndividual\MVCIndau.csproj", "{D9170464-6340-4A4F-8454-FB65CCBA481F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCNoauth", "..\MVCNoauth\MVCNoauth\MVCNoauth.csproj", "{960D9727-7497-475D-8AEC-6C756E07AE7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCNoAuth", "..\MVCNoauth\MVCNoauth\MVCNoAuth.csproj", "{960D9727-7497-475D-8AEC-6C756E07AE7A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Razorindauth", "..\Razorindauth\Razorindauth\Razorindauth.csproj", "{2C21D6CD-67DD-45F7-8F59-83E339F93DB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorindAuth", "..\Razorindauth\Razorindauth\RazorindAuth.csproj", "{2C21D6CD-67DD-45F7-8F59-83E339F93DB3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorNoauth", "..\RazorNoauth\RazorNoauth\RazorNoauth.csproj", "{B0768BE4-470A-402C-822D-ED5CA7117AED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorNoAuth", "..\RazorNoauth\RazorNoauth\RazorNoAuth.csproj", "{B0768BE4-470A-402C-822D-ED5CA7117AED}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWasmWithhost.Server", "BlazorWasmWithhost\Server\BlazorWasmWithhost.Server.csproj", "{D2FF6D94-2543-4E93-BAF5-AD13CCE0D664}"
 EndProject
