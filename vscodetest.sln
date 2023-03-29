@@ -5,7 +5,7 @@ VisualStudioVersion = 17.6.33513.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppServer1", "..\BlazorAppServer\BlazorAppServer\BlazorAppServer1.csproj", "{AA11E0CB-5F14-4487-8585-F97DD3E17EB2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCIndau", "..\MVCIndividual\MVCIndividual\MVCIndau.csproj", "{D9170464-6340-4A4F-8454-FB65CCBA481F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCIndAuth", "..\MVCIndividual\MVCIndividual\MVCIndAuth.csproj", "{D9170464-6340-4A4F-8454-FB65CCBA481F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCNoAuth", "..\MVCNoauth\MVCNoauth\MVCNoAuth.csproj", "{960D9727-7497-475D-8AEC-6C756E07AE7A}"
 EndProject
